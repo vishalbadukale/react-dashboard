@@ -1,0 +1,19 @@
+.bi-card-image,
+.bi-laptop,
+.bi-link-45deg {
+	font-size: 30px;
+}
+.today {
+	display: flex;
+	justify-content: space-between;
+}
+/* .card-img img{
+    height: 200px;
+    width: 180px;
+}
+.card-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */

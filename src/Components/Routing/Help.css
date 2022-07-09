@@ -1,0 +1,42 @@
+
+.help a{
+    text-decoration: none;
+    color: black;
+    }
+    .help li a{
+        color:lightseagreen;
+    }
+    .help li a:hover{
+        border-bottom: 1px solid rgb(130, 130, 130);
+    }
+    .help .col-md-4{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    
+    .help i{
+        font-size: 60px;
+        color: greenyellow;
+    }
+    .help .col-md-4 h2{
+        
+        color: #1683ff;
+    }
+    /* .help .col-md-4 a:nth-child(3){
+        color: greenyellow;
+    } */
+    .help .accordion-item,.help .accordion-button:focus{
+        border: none;
+        box-shadow: none;
+    }
+    
+    
+    .help .accordion-button:not(.collapsed){
+        background: white;
+    }
+    .help .accordion-item li{
+    
+    }

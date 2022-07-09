@@ -1,0 +1,70 @@
+.offcanvas
+{
+    width:230px;
+}
+.active
+{
+    background-color: blue;
+}
+span{
+    font-size: 20px;
+    color: white;
+}
+.sidebar-link 
+{
+    display: flex;
+    align-content: center;
+}
+.sidebar-link .right-icon 
+{
+    display: inline-flex;
+    transition:  all ease 0.25s;
+    
+}
+.sidebar-link[aria-expanded="true"] .right-icon
+{
+    transform: rotate(180deg);
+}
+.bi-card-image,.bi-laptop,.bi-link-45deg
+{
+    font-size: 30px;
+}
+
+@media (min-width:992px)
+{
+    body 
+    {
+        overflow: auto;
+    }
+  
+    .offcanvas-backdrop::after
+    {
+        display:none;
+    }
+.offcanvas
+{
+  transform: none;
+  visibility: visible;
+  
+}
+section {
+ margin-left: 250px;
+}
+}
+
+
+
+@media (max-width: 575px) { 
+    .cbtn
+    {
+        margin: 10px 0px;
+      
+    }
+ }
+ @media (max-width: 767px) { 
+    .cbtn
+    {
+        margin: 10px 0px;
+      
+    }
+  }

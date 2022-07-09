@@ -1,0 +1,20 @@
+#logoutModel .modal-body
+{
+    border:none;
+    margin: 20px;
+   
+}
+#logoutModel .modal-body video
+{
+    width: 330px;
+    height: 200px;
+}
+#logoutModel .modal-header{
+    border: none;
+}
+#logoutModel .btn-close:hover{
+    transform: rotate(360deg);
+}
+#logoutModel .btn-close:focus{
+    box-shadow: none;
+}

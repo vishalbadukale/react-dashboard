@@ -1,0 +1,37 @@
+.bi-card-image,.bi-laptop,.bi-link-45deg
+{
+    font-size: 30px;
+}
+.card-img img{
+    height: 200px;
+    width: 180px;
+}
+.card-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.modal .modal-body
+{
+    border:2px dashed blue;
+    margin: 20px;
+   
+}
+.bi-cloud-arrow-up-fill 
+{
+    font-size: 40px;
+    color:blue;
+    cursor: pointer;
+}
+.button {
+    font-size: 20px;
+    font-weight: 500;
+    color: #1683ff;
+    cursor: pointer;
+  }
+  .html-img{
+  }
+  .html-img img{
+      height: 240px;
+  }
