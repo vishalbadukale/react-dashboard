@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ca78b6e.css",
-    "main.js": "/static/js/main.2f10ed6c.js",
-    "static/media/discuss.jpg": "/static/media/discuss.c02d1c758caa4989c54c.jpg",
-    "static/media/goal.jpg": "/static/media/goal.f7b6e6e18b6422622621.jpg",
-    "index.html": "/index.html",
-    "main.5ca78b6e.css.map": "/static/css/main.5ca78b6e.css.map",
-    "main.2f10ed6c.js.map": "/static/js/main.2f10ed6c.js.map"
+    "main.css": "/react-dashboard.git/static/css/main.15674806.css",
+    "main.js": "/react-dashboard.git/static/js/main.2f10ed6c.js",
+    "static/media/discuss.jpg": "/react-dashboard.git/static/media/discuss.c02d1c758caa4989c54c.jpg",
+    "static/media/goal.jpg": "/react-dashboard.git/static/media/goal.f7b6e6e18b6422622621.jpg",
+    "index.html": "/react-dashboard.git/index.html",
+    "main.15674806.css.map": "/react-dashboard.git/static/css/main.15674806.css.map",
+    "main.2f10ed6c.js.map": "/react-dashboard.git/static/js/main.2f10ed6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ca78b6e.css",
+    "static/css/main.15674806.css",
     "static/js/main.2f10ed6c.js"
   ]
 }
