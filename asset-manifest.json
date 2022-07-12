@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-dashboard.git/static/css/main.15674806.css",
-    "main.js": "/react-dashboard.git/static/js/main.2f10ed6c.js",
-    "static/media/discuss.jpg": "/react-dashboard.git/static/media/discuss.c02d1c758caa4989c54c.jpg",
-    "static/media/goal.jpg": "/react-dashboard.git/static/media/goal.f7b6e6e18b6422622621.jpg",
-    "index.html": "/react-dashboard.git/index.html",
-    "main.15674806.css.map": "/react-dashboard.git/static/css/main.15674806.css.map",
-    "main.2f10ed6c.js.map": "/react-dashboard.git/static/js/main.2f10ed6c.js.map"
+    "main.css": "/react-dashboard/static/css/main.5fbd631b.css",
+    "main.js": "/react-dashboard/static/js/main.2f10ed6c.js",
+    "static/media/discuss.jpg": "/react-dashboard/static/media/discuss.c02d1c758caa4989c54c.jpg",
+    "static/media/goal.jpg": "/react-dashboard/static/media/goal.f7b6e6e18b6422622621.jpg",
+    "index.html": "/react-dashboard/index.html",
+    "main.5fbd631b.css.map": "/react-dashboard/static/css/main.5fbd631b.css.map",
+    "main.2f10ed6c.js.map": "/react-dashboard/static/js/main.2f10ed6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.15674806.css",
+    "static/css/main.5fbd631b.css",
     "static/js/main.2f10ed6c.js"
   ]
 }
