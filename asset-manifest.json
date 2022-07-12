@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/react-dashboard/static/css/main.5fbd631b.css",
-    "main.js": "/react-dashboard/static/js/main.2f10ed6c.js",
+    "main.css": "/react-dashboard/static/css/main.f6589bfc.css",
+    "main.js": "/react-dashboard/static/js/main.77fa4f01.js",
     "static/media/discuss.jpg": "/react-dashboard/static/media/discuss.c02d1c758caa4989c54c.jpg",
+    "static/media/jQuery.png": "/react-dashboard/static/media/jQuery.53178394da149bd9dc73.png",
+    "static/media/javaScript.png": "/react-dashboard/static/media/javaScript.a2a16f087e18d50f3d99.png",
     "static/media/goal.jpg": "/react-dashboard/static/media/goal.f7b6e6e18b6422622621.jpg",
+    "static/media/Css3.png": "/react-dashboard/static/media/Css3.c0b1bbd01abd3b32ce78.png",
+    "static/media/Html5.png": "/react-dashboard/static/media/Html5.c77fed674c34630bf6ef.png",
     "index.html": "/react-dashboard/index.html",
-    "main.5fbd631b.css.map": "/react-dashboard/static/css/main.5fbd631b.css.map",
-    "main.2f10ed6c.js.map": "/react-dashboard/static/js/main.2f10ed6c.js.map"
+    "main.f6589bfc.css.map": "/react-dashboard/static/css/main.f6589bfc.css.map",
+    "main.77fa4f01.js.map": "/react-dashboard/static/js/main.77fa4f01.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fbd631b.css",
-    "static/js/main.2f10ed6c.js"
+    "static/css/main.f6589bfc.css",
+    "static/js/main.77fa4f01.js"
   ]
 }
